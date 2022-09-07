@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">APP Login</string>
+    <string name="main_titulo">Login Usuario</string>
+    <string name="main_username">Ingresa tu email</string>
+    <string name="main_password">Ingresa tu Clave</string>
+    <string name="main_boton">Acceder</string>
+</resources>

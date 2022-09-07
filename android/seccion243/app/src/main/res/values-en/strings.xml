@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_titulo">User Access</string>
+    <string name="main_username">Input email</string>
+    <string name="main_password">Input Password</string>
+    <string name="main_boton">Sign in</string>
+</resources>
