@@ -9,7 +9,8 @@ const MiTabla = (props) => {
   const [searchedColumn, setSearchedColumn] = useState('');
   const [data,setData] = useState(props.valores);
   const searchInput = useRef(null);
-   
+
+
   const handleSearch = (selectedKeys, confirm, dataIndex) => {
     confirm();
     setSearchText(selectedKeys[0]);

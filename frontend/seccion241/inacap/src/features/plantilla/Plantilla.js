@@ -9,6 +9,7 @@ import {
   import React, { useState } from 'react';
 import Estudiante from '../estudiante/Estudiante';
 import MiTabla from '../mitabla/MiTabla';
+import TarjetaListar from '../tarjeta/TarjetaListar';
   import './Plantilla.css'
   const { Header, Content, Footer, Sider } = Layout;
   
@@ -72,6 +73,7 @@ import MiTabla from '../mitabla/MiTabla';
                 minHeight: 360,
               }}
             >
+              <TarjetaListar />
               <Estudiante />
             </div>
           </Content>
